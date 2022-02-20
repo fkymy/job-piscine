@@ -22,13 +22,13 @@
 2. お茶会テンプレートを順番に
 
 ## 🍵 お茶会テンプレート
-[00 顔合わせ](https://github.com/fkymy/job-piscine/edit/main/README.md)
+[00 顔合わせ](https://github.com/fkymy/job-piscine/blob/main/00_%E9%A1%94%E5%90%88%E3%82%8F%E3%81%9B.md)
 
-[01 履歴書](https://github.com/fkymy/job-piscine/edit/main/README.md)
+[01 履歴書](https://github.com/fkymy/job-piscine/blob/main/01_%E5%B1%A5%E6%AD%B4%E6%9B%B8.md)
 
-[02 面接質問大喜利！](https://github.com/fkymy/job-piscine/edit/main/README.md)
+[02 面接質問大喜利！](https://github.com/fkymy/job-piscine/blob/main/02_%E9%9D%A2%E6%8E%A5%E8%B3%AA%E5%95%8F%E5%A4%A7%E5%96%9C%E5%88%A9%EF%BC%81.md)
 
-[03 職務経歴書とGithub](https://github.com/fkymy/job-piscine/edit/main/README.md)
+[03 職務経歴書とGithub](https://github.com/fkymy/job-piscine/blob/main/03_03%20%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8%E3%81%A8Github.md)
 
 ## 📝 Wiki
 [会社の探し方](https://github.com/fkymy/job-piscine)
