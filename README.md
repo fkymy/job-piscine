@@ -31,10 +31,10 @@
 [03 職務経歴書とGithub](https://github.com/fkymy/job-piscine/edit/main/README.md)
 
 ## 📝 Wiki
-WIP
+[会社の探し方](https://github.com/fkymy/job-piscine)
 
 ## ⭐ 企業リスト
-WIP
+[企業リスト](https://job-piscine.notion.site/c09b131215734b8dbd842863aa35da43?v=52c1e1b036334e5f938fb81a1e023c52)
 
 ## Discordサーバー
 
