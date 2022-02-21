@@ -36,7 +36,7 @@
 
 [02 面接質問大喜利！](https://github.com/fkymy/job-piscine/blob/main/02_%E9%9D%A2%E6%8E%A5%E8%B3%AA%E5%95%8F%E5%A4%A7%E5%96%9C%E5%88%A9%EF%BC%81.md)
 
-[03 職務経歴書とGithub](https://github.com/fkymy/job-piscine/blob/main/03_03%20%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8%E3%81%A8Github.md)
+[03 職務経歴書とGithub](https://github.com/fkymy/job-piscine/blob/main/03%20%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8%E3%81%A8Github.md)
 
 ## 📝 Wiki
 [会社の探し方](https://github.com/fkymy/job-piscine/blob/main/wiki/%E4%BC%9A%E7%A4%BE%E3%81%AE%E6%8E%A2%E3%81%97%E6%96%B9.md)
