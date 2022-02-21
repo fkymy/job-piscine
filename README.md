@@ -39,7 +39,7 @@
 [03 職務経歴書とGithub](https://github.com/fkymy/job-piscine/blob/main/03_03%20%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8%E3%81%A8Github.md)
 
 ## 📝 Wiki
-[会社の探し方](https://github.com/fkymy/job-piscine)
+[会社の探し方](https://github.com/fkymy/job-piscine/blob/main/wiki/%E4%BC%9A%E7%A4%BE%E3%81%AE%E6%8E%A2%E3%81%97%E6%96%B9.md)
 
 ## ⭐ 企業リスト
 [企業リスト](https://job-piscine.notion.site/c09b131215734b8dbd842863aa35da43?v=52c1e1b036334e5f938fb81a1e023c52)
