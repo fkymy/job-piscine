@@ -50,4 +50,4 @@
 就活ピシンの場として利用するだけでなく、就活全般に関連した情報共有や質問、イベントの開催等など大歓迎です。
 みんなにとってメリットがあるコミュニティを一緒に作りましょう！
 
-[https://discord.gg/y3QPceS6GF](https://discord.gg/y3QPceS6GF)
+[https://discord.gg/996Nxngzq8](https://discord.gg/996Nxngzq8)
